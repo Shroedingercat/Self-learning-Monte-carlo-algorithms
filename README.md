@@ -1,4 +1,4 @@
 # Self-learning-Monte-carlo-algorithms
-Реализация алгоритма Вольфа
+Реализация алгоритма Вольфа: lattices generation
 Нейросети 
 Эксперементы
